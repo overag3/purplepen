@@ -11,7 +11,7 @@
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <title>Purple Pen</title>
     <authors>Peter Golde</authors>
-    <projectUrl>http://purplepen.golde.org/</projectUrl>
+    <projectUrl>http://purple-pen.org/</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/overag3/purplepen/PurplePenIcon.png</iconUrl> 
     <projectSourceUrl>https://github.com/petergolde/PurplePen</projectSourceUrl>
     <docsUrl>http://purple-pen.org/#learn</docsUrl>
