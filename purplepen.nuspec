@@ -42,6 +42,7 @@ Design your courses visually — directly on any OCAD map, OpenOrienteering Map,
 
 Best of all, Purple Pen is completely free software.
     </description>
+    <releaseNotes>http://purplepen.golde.org/change_summary.htm</releaseNotes>
     <dependencies>
       <dependency id="dotnetfx" version="4.6.2.0" />
     </dependencies>
