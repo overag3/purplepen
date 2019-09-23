@@ -12,7 +12,9 @@
     <title>Purple Pen</title>
     <authors>Peter Golde</authors>
     <projectUrl>http://purple-pen.org/</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/overag3/purplepen/PurplePenIcon.png</iconUrl> 
+    <iconUrl>https://cdn.jsdelivr.net/gh/overag3/purplepen/PurplePenIcon.png</iconUrl>
+    <licenseUrl>https://en.wikipedia.org/wiki/BSD_licenses</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/petergolde/PurplePen</projectSourceUrl>
     <docsUrl>http://purple-pen.org/#learn</docsUrl>
     <mailingListUrl>http://groups.yahoo.com/group/purplepen</mailingListUrl>
@@ -40,6 +42,9 @@ Design your courses visually — directly on any OCAD map, OpenOrienteering Map,
 
 Best of all, Purple Pen is completely free software.
     </description>
+    <dependencies>
+      <dependency id="dotnetfx" version="4.6.2.0" />
+    </dependencies>
     <!-- =============================== -->
   </metadata>
   <files>
