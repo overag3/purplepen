@@ -1,12 +1,12 @@
 ﻿$ErrorActionPreference = 'Stop'
-$url = 'http://purple-pen.org/downloads/purplepen-323.exe'
+$url = 'http://purplepen.golde.org/downloads/purplepen-330.exe'
 
 $packageArgs = @{
     packageName    = $env:ChocolateyPackageName
     fileType       = 'EXE'
     url            = $url
     softwareName   = 'Purple Pen*'
-    checksum       = '5EFB88501DFE89B9258FBBB6C836A880A0E2E2621AA2975EC471A94BA93E0BB1'
+    checksum       = 'cd63523288b3fc295c8df389a568ab050f2246a24b4f4333e13bad1969948f87'
     checksumType   = 'sha256'
     silentArgs     = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
     validExitCodes = @(0)

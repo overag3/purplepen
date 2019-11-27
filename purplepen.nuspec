@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>purplepen</id>
-    <version>3.2.3</version>
+    <version>3.3.0</version>
     <packageSourceUrl>https://github.com/overag3/purplepen</packageSourceUrl>
     <owners>overag3</owners>
     <!-- ============================== -->
@@ -21,8 +21,7 @@
     <bugTrackerUrl>https://github.com/petergolde/PurplePen/issues</bugTrackerUrl>
     <tags>Purple Pen PurplePen course orienteering</tags>
     <summary>Simple, versatile, and free course setting software for orienteering</summary>
-    <description>
-Purple Pen is course setting software for orienteering. Purple Pen makes it easy to design orienteering courses and their associated control descriptions.
+    <description><![CDATA[Purple Pen is course setting software for orienteering. Purple Pen makes it easy to design orienteering courses and their associated control descriptions.
 
 Design your courses visually — directly on any OCAD map, OpenOrienteering Map, or PDF map. View the course and the control descriptions at the same time, and simply click on the control descriptions to set the correct description for each control. Purple Pen automatically does all the busywork:
 
@@ -41,7 +40,7 @@ Design your courses visually — directly on any OCAD map, OpenOrienteering Map,
 - Supports both the IOF 2000 and 2018 control description standards.
 
 Best of all, Purple Pen is completely free software.
-    </description>
+]]></description>
     <releaseNotes>http://purplepen.golde.org/change_summary.htm</releaseNotes>
     <dependencies>
       <dependency id="dotnetfx" version="4.6.2.0" />
