@@ -5,7 +5,7 @@
     <id>purplepen</id>
     <version>3.3.0</version>
     <packageSourceUrl>https://github.com/overag3/purplepen</packageSourceUrl>
-    <owners>overag3</owners>
+    <owners>overage</owners>
     <!-- ============================== -->
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
@@ -13,7 +13,6 @@
     <authors>Peter Golde</authors>
     <projectUrl>http://purple-pen.org/</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/overag3/purplepen/PurplePenIcon.png</iconUrl>
-    <licenseUrl>https://en.wikipedia.org/wiki/BSD_licenses</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/petergolde/PurplePen</projectSourceUrl>
     <docsUrl>http://purple-pen.org/#learn</docsUrl>
